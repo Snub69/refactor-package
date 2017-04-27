@@ -115,6 +115,11 @@ class PackageModel extends AbstractSubject implements
 	}
 	
 	
+	/**
+	 * consumeComposer
+	 * 
+	 * @return boolean
+	 */
 	private function consumeComposer()
 	{
 		$url ="https://raw.githubusercontent.com/" . $this->package
