@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d7716928f5a24bd7b8533b8395765347)](https://www.codacy.com/app/Snub69/refactor-package?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Snub69/refactor-package&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/Snub69/refactor-package.svg?branch=master)](https://travis-ci.org/Snub69/refactor-package)
 
 # refactor-package API
 Propose an universal interface for code description.
