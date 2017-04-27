@@ -1,8 +1,13 @@
 {
-	"name" : "administrateur/formation-php",
+    "name": "refactor-package",
+    "description": "An universal interface for code description",
+	"keywords": ["api", "api-rest", "repository-description", "package-description"],
+	"homepage": "http://universal-code-description.alwaysdata.net/seeren/universal-code-description",
+	"type": "project",
+	"license": "MIT",
 	"authors" : [{
-			"name" : "John Smith",
-			"email" : "john@exemple.com"
+			"name" : "snub69",
+			"email" : "info@da-dn.fr"
 		}
 	],
 	"require" : {
