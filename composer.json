@@ -1,0 +1,27 @@
+{
+	"name" : "administrateur/formation-php",
+	"authors" : [{
+			"name" : "John Smith",
+			"email" : "john@exemple.com"
+		}
+	],
+	"require" : {
+		"psr/log" : "1.0.2",
+		"phpunit/phpunit" : "6.1"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Snub69\\Poo\\" : "cours/poo/",
+			"Snub69\\PageView\\" : "library/view/src/",
+			"Snub69\\Manager\\" : "library/manager/",
+			"Snub69\\MVC\\" : "cours/poo/mvc/",
+			"FindCode\\Controller\\" : "app/controller/",
+			"FindCode\\Model\\" : "app/model/",
+			"FindCode\\View\\" : "app/view/",
+			"FindCode\\Api\\Controller\\" : "api/controller/",
+			"FindCode\\Api\\Model\\" : "api/model/",
+			"FindCode\\Api\\View\\" : "api/view/",
+			"FindCode\\Test\\" : "test/"
+		}
+	}
+}
