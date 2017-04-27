@@ -5,7 +5,7 @@
 Propose an universal interface for code description.
 
 ## API Demo
-Target a PHP or JS repository like  [snub69/refactor-package](http://refactor-package.alwaysdata.net/snub69/refactor-package).
+Target a PHP or JS repository like  [snub69/minbox](http://snub69.alwaysdata.net/).
 ```
 {
     "distribuable": false,
